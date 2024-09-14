@@ -114,10 +114,13 @@ header {
     margin-bottom: 1%;
 }
 
+/* For all images */
+
 img {
     max-width:425px;
-    width:100%; 
+    width:100%;
 }
+
 .row1 {
     display:flex;
     justify-content: space-between;
